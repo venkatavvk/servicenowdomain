@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="domain name ">46a260281b881110a03ba8e5604bcbe1</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 19:15:11</sys_created_on>
+        <sys_id>0487a7311bc01110a03ba8e5604bcbb1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>inf-na</sys_name>
+        <sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope>
+        <sys_update_name>question_choice_0487a7311bc01110a03ba8e5604bcbb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 12:33:01</sys_updated_on>
+        <text>inf-na</text>
+        <value/>
+    </question_choice>
+    <fx_price action="DELETE" query="id=0487a7311bc01110a03ba8e5604bcbb1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</application>
+        <file_path/>
+        <instance_id>0d21a85e1b4c7450e84d2f8dee4bcb99</instance_id>
+        <instance_name>dev115773</instance_name>
+        <name>question_choice_0487a7311bc01110a03ba8e5604bcbb1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="domain name ">46a260281b881110a03ba8e5604bcbe1</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-13 19:15:11</sys_created_on><sys_id>0487a7311bc01110a03ba8e5604bcbb1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>inf-na</sys_name><sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package><sys_policy/><sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope><sys_update_name>question_choice_0487a7311bc01110a03ba8e5604bcbb1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-14 12:33:01</sys_updated_on><text>inf-na</text><value/></question_choice><fx_price action="delete_multiple" query="id=0487a7311bc01110a03ba8e5604bcbb1"/></record_update>]]></payload>
+        <payload_hash>-330421496</payload_hash>
+        <record_name>inf-na</record_name>
+        <reverted_from/>
+        <source>345f623f1b730110a03ba8e5604bcbfa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 12:33:01</sys_created_on>
+        <sys_id>4d1593061bc01110a03ba8e5604bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1816233f8170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 12:33:01</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>851593065dc0111061d849c45005de70</update_guid>
+        <update_guid_history>851593065dc0111061d849c45005de70:-330421496,71d7eb31ecc01110d486d04027220dea:-154146790,6a872b3144c011102fa67483cbb5bdcf:-1651592901</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="inf-na">12855f061bc01110a03ba8e5604bcb82</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 12:35:01</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>60eb5cff4e494f46af1dd635cad96264</sys_id>
+        <sys_metadata>0487a7311bc01110a03ba8e5604bcbb1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inf-na</sys_name>
+        <sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope>
+        <sys_scope_delete display_value="">0be93e11434d483c9ef3935239bfae91</sys_scope_delete>
+        <sys_update_name>question_choice_0487a7311bc01110a03ba8e5604bcbb1</sys_update_name>
+        <sys_update_version display_value="question_choice_0487a7311bc01110a03ba8e5604bcbb1">4d1593061bc01110a03ba8e5604bcb70</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 12:35:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

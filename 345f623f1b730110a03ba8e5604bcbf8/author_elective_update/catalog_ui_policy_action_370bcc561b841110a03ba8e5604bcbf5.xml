@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="domainjoin">aca669901b001110a03ba8e5604bcbc2</catalog_item>
+        <catalog_variable>IO:4722845e1b441110a03ba8e5604bcbc9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>10</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 16:29:15</sys_created_on>
+        <sys_id>370bcc561b841110a03ba8e5604bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>organization_Unit</sys_name>
+        <sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_370bcc561b841110a03ba8e5604bcbf5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 16:29:15</sys_updated_on>
+        <table/>
+        <ui_policy display_value="OUselection">c13a44161b841110a03ba8e5604bcb64</ui_policy>
+        <variable>organization_Unit</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</application>
+        <file_path/>
+        <instance_id>0d21a85e1b4c7450e84d2f8dee4bcb99</instance_id>
+        <instance_name>dev115773</instance_name>
+        <name>catalog_ui_policy_action_370bcc561b841110a03ba8e5604bcbf5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="domainjoin">aca669901b001110a03ba8e5604bcbc2</catalog_item><catalog_variable>IO:4722845e1b441110a03ba8e5604bcbc9</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>10</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-14 16:29:15</sys_created_on><sys_id>370bcc561b841110a03ba8e5604bcbf5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>organization_Unit</sys_name><sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package><sys_policy/><sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope><sys_update_name>catalog_ui_policy_action_370bcc561b841110a03ba8e5604bcbf5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-14 16:29:15</sys_updated_on><table/><ui_policy display_value="OUselection">c13a44161b841110a03ba8e5604bcb64</ui_policy><variable>organization_Unit</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>465741278</payload_hash>
+        <record_name>organization_Unit</record_name>
+        <reverted_from/>
+        <source>345f623f1b730110a03ba8e5604bcbfa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 16:29:15</sys_created_on>
+        <sys_id>e12bc8561b841110a03ba8e5604bcb68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181630c3f4a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 16:29:15</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>2d2bc856e084111055e5418f0415c967</update_guid>
+        <update_guid_history>2d2bc856e084111055e5418f0415c967:465741278</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="organization_Unit">af2d44d61b841110a03ba8e5604bcb97</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 16:38:07</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>20daa38698d345779033db4cb97bab59</sys_id>
+        <sys_metadata>370bcc561b841110a03ba8e5604bcbf5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>organization_Unit</sys_name>
+        <sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope>
+        <sys_scope_delete display_value="">0be93e11434d483c9ef3935239bfae91</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_370bcc561b841110a03ba8e5604bcbf5</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_370bcc561b841110a03ba8e5604bcbf5">e12bc8561b841110a03ba8e5604bcb68</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 16:38:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

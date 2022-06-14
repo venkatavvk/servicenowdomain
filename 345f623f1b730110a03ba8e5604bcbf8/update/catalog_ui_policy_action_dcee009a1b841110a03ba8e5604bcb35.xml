@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="domainjoin">aca669901b001110a03ba8e5604bcbc2</catalog_item>
+        <catalog_variable>IO:22c5c0121b841110a03ba8e5604bcbf9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 16:45:58</sys_created_on>
+        <sys_id>dcee009a1b841110a03ba8e5604bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inside_ou</sys_name>
+        <sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_dcee009a1b841110a03ba8e5604bcb35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 16:45:58</sys_updated_on>
+        <table/>
+        <ui_policy display_value="insideOU">c29ec85a1b841110a03ba8e5604bcbb9</ui_policy>
+        <variable>inside_ou</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

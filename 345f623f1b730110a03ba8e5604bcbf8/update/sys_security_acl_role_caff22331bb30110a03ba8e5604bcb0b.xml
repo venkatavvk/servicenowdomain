@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-07 10:04:33</sys_created_on>
+        <sys_id>caff22331bb30110a03ba8e5604bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_732523_domainjoi_domainjoin.x_732523_domainjoi.domainjoin.user</sys_name>
+        <sys_package display_value="domainjoin" source="x_732523_domainjoi">345f623f1b730110a03ba8e5604bcbf8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="domainjoin">345f623f1b730110a03ba8e5604bcbf8</sys_scope>
+        <sys_security_acl display_value="x_732523_domainjoi_domainjoin">86ff22331bb30110a03ba8e5604bcb09</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_caff22331bb30110a03ba8e5604bcb0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-07 10:04:33</sys_updated_on>
+        <sys_user_role display_value="x_732523_domainjoi.domainjoin.user" name="x_732523_domainjoi.domainjoin.user">107fe27f1b730110a03ba8e5604bcbcb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
